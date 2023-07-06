@@ -38,25 +38,25 @@ Domain purchase at Niagahoster, following are the steps for the purchase..
 
 * Open website [niagahoster](https://www.niagahoster.co.id/domain-murah)
 * Check the desired domain name, is it still available? If still available, then press "pilih"
-  ![check desire domain](image.png)
+  ![check desire domain](/image%20readme/image.png)
 ###
 * Checklist the added domain names and continue.
-  ![checklist and select buyer methode](image-1.png)
+  ![checklist and select buyer methode](/image%20readme/image-1.png)
 ###
 * If you haven't logged into Niagahoster, you can log in or register first
-  ![login first](image-2.png)
+  ![login first](/image%20readme/image-2.png)
 ###
 * If already logged in, the menu will return to the payment method display. Can directly select Checkout now
-  ![checkout after login](image-3.png)
+  ![checkout after login](/image%20readme/image-3.png)
 ###
 * Complete your personal data to continue payment and select agree "setuju"
-  ![completed personal data](image-4.png)
+  ![completed personal data](/image%20readme/image-4.png)
 ###
 * Next will come out the total purchase invoice
-  ![purchase invoice](image-5.png)
+  ![purchase invoice](/image%20readme/image-5.png)
 ###
 * After making a payment, wait until the payment is verified
-  ![payment is verified](image-6.png)
+  ![payment is verified](/image%20readme/image.png)
 
 ---
 ### Deployment Process
