@@ -56,7 +56,7 @@ Domain purchase at Niagahoster, following are the steps for the purchase..
   ![purchase invoice](/image%20readme/image-5.png)
 ###
 * After making a payment, wait until the payment is verified
-  ![payment is verified](/image%20readme/image.png)
+  ![payment is verified](/image%20readme/image-6.png)
 
 ---
 ### Deployment Process
