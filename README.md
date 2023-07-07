@@ -238,13 +238,14 @@ and finally custom domain can be accessed..
 
 ![finnaly process](/image%20readme/connect21.png)
 
-following domain name, if interested can be accessed [`here`]((https://imanmaris.site/))
+following domain name, if interested can be accessed [`here`](https://imanmaris.site/)
 [imanmaris.site](https://imanmaris.site/) 
 
 ![final display from custom domain](/image%20readme/connect22.png)
 
 ---
 
-`*created by iman*`
+Thanks a lot
+`*copyright © 2023 Iman*`
 
 
