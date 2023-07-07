@@ -170,8 +170,6 @@ Than select "continue" and select "confirm".
 
 ![next display after choose free session](/image%20readme/connect6.png)
 
-your suggestions, feedback and input are very useful for my knowledge about this..
-
 --
 ##### Step 2: Colaboration to Update Name Server
 Open the Niagahoster website and log in. Then click "kelola layanan".
@@ -225,11 +223,10 @@ Nameservers already saved,
 
 ![already saved](/image%20readme/connect18.png)
 
-Add domain in netlify and write your domain custom name.
-
 --
 ##### Step 4: Finally
-Contains about the end of the domain linking
+Contains about the end of the domain linking,
+then add domain in netlify and write your domain custom name.
 
 ![add domain in netlify](/image%20readme/connect19.png)
 
