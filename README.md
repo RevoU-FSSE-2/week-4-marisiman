@@ -60,6 +60,53 @@ Domain purchase at Niagahoster, following are the steps for the purchase..
 
 ---
 ### Deployment Process
+#### Pull Request and Merge 
+Open the folder you want to do a pull request, and open github in there. Then, make a new branch.
+
+![make a new branch](/image%20readme/pullandmerge1.png)
+
+Activate a new branch, from branch "main" to "develop".
+
+![activated new branch](/image%20readme/pullandmerge2.png)
+
+And push to github.
+
+![push to github](/image%20readme/pullandmerge3.png)
+
+This is the result
+
+![result push to github](/image%20readme/pullandmerge4.png)
+
+After being pushed, do an edit to see the changes. Then do the following steps on git bash.
+
+![add modified and commit](/image%20readme/pullandmerge5.png)
+
+After being commit in new branch, than click "compare & pull request".
+
+![compare and pull request](/image%20readme/pullandmerge6.png)
+
+Then write a description as an introduction to the pull request.
+
+![description as an intro to the pull](/image%20readme/pullandmerge7.png)
+
+And create a pull request
+
+![create pull request](/image%20readme/pullandmerge8.png)
+
+And click "Merge Pull Request"
+
+![merge pull request](/image%20readme/pullandmerge9.png)
+
+Click "Confirm Merge"
+
+![confirm merge](/image%20readme/pullandmerge10.png)
+
+And the pull request and merge process was successful.
+
+![succesfull merge](/image%20readme/pullandmerge11.png)
+
+--
+
 #### Prepare File and Push to Github
 
 Before going on to the steps for deploying a static website to netlify, first prepare the website files and push them to github. Then create a new repository on github to hold the files you just created.
@@ -170,8 +217,6 @@ Than select "continue" and select "confirm".
 
 ![next display after choose free session](/image%20readme/connect6.png)
 
-your suggestions, feedback and input are very useful for my knowledge about this..
-
 --
 ##### Step 2: Colaboration to Update Name Server
 Open the Niagahoster website and log in. Then click "kelola layanan".
@@ -225,11 +270,10 @@ Nameservers already saved,
 
 ![already saved](/image%20readme/connect18.png)
 
-Add domain in netlify and write your domain custom name.
-
 --
 ##### Step 4: Finally
-Contains about the end of the domain linking
+Contains about the end of the domain linking,
+then add domain in netlify and write your domain custom name.
 
 ![add domain in netlify](/image%20readme/connect19.png)
 
@@ -241,13 +285,14 @@ and finally custom domain can be accessed..
 
 ![finnaly process](/image%20readme/connect21.png)
 
-following domain name, if interested can be accessed [`here`]((https://imanmaris.site/))
+following domain name, if interested can be accessed [`here`](https://imanmaris.site/)
 [imanmaris.site](https://imanmaris.site/) 
 
 ![final display from custom domain](/image%20readme/connect22.png)
 
 ---
 
-`*created by iman*`
+Thanks a lot
+`*copyright © 2023 Iman*`
 
 
